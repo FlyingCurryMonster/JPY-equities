@@ -1,1 +1,14 @@
 JPY equities.code-workspace
+OLD-beta-forecasting.ipynb
+OLD-implied-probability-distributions copy.ipynb
+stock_list.csv
+supplemental_files/financials.csv
+supplemental_files/options.csv
+supplemental_files/secondary_stock_prices.csv
+supplemental_files/stock_prices.csv
+supplemental_files/trades.csv
+train_files/financials.csv
+train_files/options.csv
+train_files/secondary_stock_prices.csv
+train_files/stock_prices.csv
+train_files/trades.csv
