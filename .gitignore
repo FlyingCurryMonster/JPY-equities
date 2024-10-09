@@ -13,3 +13,5 @@ train_files/secondary_stock_prices.csv
 train_files/stock_prices.csv
 train_files/trades.csv
 beta-forecasting copy.ipynb
+beta-forecasting-residual.ipynb
+beta-forecasting-thintail-difference.ipynb
