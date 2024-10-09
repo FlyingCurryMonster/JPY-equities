@@ -36,7 +36,7 @@ fig = go.Figure(data=[go.Scatter3d(
         size=2,  # Reduce size for better performance
         color=y_ridge,  # Color based on the target variable
         colorscale='icefire',  # Red-to-blue colormap
-        colorbar=dict(title="Target (beta_target_45)"),
+        colorbar=dict(title="Target"),
         showscale=True,
         opacity=0.8  # Slight transparency for better visibility
     )
