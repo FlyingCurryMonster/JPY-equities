@@ -12,6 +12,7 @@ train_files/options.csv
 train_files/secondary_stock_prices.csv
 train_files/stock_prices.csv
 train_files/trades.csv
+CAPM_tools.py
 # beta-forecasting copy.ipynb
 # beta-forecasting-residual.ipynb
 # beta-forecasting-thintail-difference.ipynb
