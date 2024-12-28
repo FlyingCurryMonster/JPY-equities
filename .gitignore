@@ -18,3 +18,10 @@ CAPM_tools.py
 # beta-forecasting-thintail-difference.ipynb
 CAPM_tools copy.py
 beta-forecasting-withpcamod.html
+beta-forecasting copy.ipynb
+beta-forecasting-private.ipynb
+jpy-tools.py
+jpy_tools.py
+jpy_tools/data_analysis.py
+jpy_tools/plotting.py
+train_files/wavelet_dataset.csv
