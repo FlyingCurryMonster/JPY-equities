@@ -22,6 +22,6 @@ beta-forecasting copy.ipynb
 beta-forecasting-private.ipynb
 jpy-tools.py
 jpy_tools.py
-jpy_tools/data_analysis.py
-jpy_tools/plotting.py
+# jpy_tools/data_analysis.py
+# jpy_tools/plotting.py
 train_files/wavelet_dataset.csv
